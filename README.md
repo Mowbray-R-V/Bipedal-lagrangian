@@ -1,2 +1,2 @@
 # Bipedal-lagrangian
-The lagrangian is derived for single and doible stance of the gait use the ZMP as the condition
+The lagrangian is derived for single and double stance of the gait using the contact and ZMP Cconstraints.
